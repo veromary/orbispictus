@@ -1,0 +1,11 @@
+# Setup
+name: Orbis Pictus by Comenius
+tagline: Support files for learners
+baseurl:      ""
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
