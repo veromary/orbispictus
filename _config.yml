@@ -1,7 +1,7 @@
 # Setup
 name: Orbis Pictus by Comenius
 tagline: Support files for learners
-baseurl:      "http://www.brandt.id.au/orbistpictus"
+baseurl: "/orbispictus"
 
 # Gems
 gems:
